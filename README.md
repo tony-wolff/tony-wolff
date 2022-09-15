@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on getting motivated to start a video game project.
+- 🌱 I’m currently learning Computer Vision, image and sound processing, Virtual Reality, Piano
+- ⚡  Will you click ? https://youtu.be/dQw4w9WgXcQ
+
+
 <!--
 **tony-wolff/tony-wolff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
